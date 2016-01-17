@@ -1,0 +1,15 @@
+{
+  "name": "d-v-zenburn",
+  "theme": "syntax",
+  "version": "0.5.0",
+  "description": "Zenburn is a low-contrast color scheme.  It's easy for your eyes and designed to keep you in the zone for long programming sessions.  This is a fork of zenburn with the goal of trying to minimize the alien salad and still keep to the goals of the original.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/d-v-zenburn",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
