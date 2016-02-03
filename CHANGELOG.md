@@ -1,3 +1,6 @@
+## 0.5.1 - Classes and Inheritance
+* Added support for classes and inheritance.
+
 ## 0.5.0 - JSON
 * JSON support has been added.
 
