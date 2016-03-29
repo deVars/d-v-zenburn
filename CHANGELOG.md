@@ -1,3 +1,6 @@
+## 0.5.2 - Python block strings
+* Python string blocks are now colored using comment default color.
+
 ## 0.5.1 - Classes and Inheritance
 * Added support for classes and inheritance.
 

@@ -188,6 +188,15 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @constant--string-color;
   }
 
+  &.block {
+    &.python {
+      color: @comment--default-color;
+      .punctuation.definition {
+        color: @comment--default-color;
+      }
+    }
+  }
+
   &.other.link {
     color: @red;
   }
@@ -292,8 +301,8 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
-.json {
-  .dictionary {
+.meta.structure {
+  &.dictionary {
     & > .string {
       color: @variable--interpolation-color;
     }
